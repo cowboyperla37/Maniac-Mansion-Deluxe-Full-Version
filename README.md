@@ -269,4 +269,4 @@ This repository serves as the official landing page for **Maniac Mansion Deluxe*
 **Get the most recent version of Maniac Mansion Deluxe today!**
 
 ---
-**Last updated:** 2026-09-12 18:54:19 UTC
+**Last updated:** 2026-09-12 21:09:15 UTC
